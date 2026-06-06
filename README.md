@@ -318,7 +318,7 @@ SW2(config-if)# end
 
 🎥 **[Ver demostración en YouTube](https://youtu.be/bjIqSAW_SqA)**
 
-**Duración:** X:XX minutos
+**Duración:** 3:06
 
 **Contenido del video:**
 - ✅ Topología visible con nombre y matrícula
